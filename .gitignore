@@ -126,3 +126,9 @@ dmypy.json
 # Input and Output
 input.cnf
 output.txt
+
+# temp
+.DS_*
+
+# Doc
+~$index.docx
