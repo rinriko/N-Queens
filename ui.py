@@ -317,7 +317,10 @@ class nQueens(object):
             self.solutions = cnf(self.username, self.password, self.Size, self.all)
             self.filled_up_the_board()
             self.generate_side_right()
-            self.Status.config(text="")
+            if len(self.solutions) == 0:
+                self.Status.config(text="No solution!!!", fg="red")
+            else:
+                self.Status.config(text="")
             self.root.update()
         else:
             self.board = [[0]*self.Size]*self.Size
