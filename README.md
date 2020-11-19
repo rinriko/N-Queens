@@ -7,6 +7,7 @@
 5. [Set-up project](#set-up-project)
 6. [Run project](#run-project)
 7. [Help](#help)
+8. [How to use this program](#how-to-use)
 
 Note: 
 - Follow step 2 if Python 3.7.3 is not installed on the local machine. 
@@ -127,3 +128,9 @@ $ make help
 ```
 
 ----------------------------------------------------
+
+## <a name="how-to-use"></a> How to use this program
+1.  Connect to TTUnet VPN by following this [link](https://www.askit.ttu.edu/portal/app/portlets/results/viewsolution.jsp?guest=0&solutionid=181128172622147&hypermediatext=null).
+2. Enter your eraider username.
+3. Enter your eraider password.
+4. Select your options.

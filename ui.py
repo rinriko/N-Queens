@@ -228,10 +228,10 @@ class nQueens(object):
 
     def check_connection(self):
         self.username = tk.simpledialog.askstring(
-            "Input", "Enter username:", parent=self.root)
+            "Input", "Enter eraider username:", parent=self.root)
         if self.username is not None:
             self.password = tk.simpledialog.askstring(
-                "Password", "Enter password:", show='*', parent=self.root)
+                "Password", "Enter eraider password:", show='*', parent=self.root)
             if self.password is not None:
                 self.check_connect = check_connection(
                     self.username, self.password)
