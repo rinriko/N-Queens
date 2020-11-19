@@ -6,8 +6,8 @@ import string
 import time
 from copy import deepcopy
 import numpy as np
-from cnf import *
-from check_connection import *
+from function.cnf import *
+from function.check_connection import *
 
 
 class nQueens(object):
