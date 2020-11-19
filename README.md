@@ -17,13 +17,14 @@ Note:
 ----------------------------------------------------
 ## <a name="n-queens"></a> N-queens Problem
 
-        The n-queens puzzle is the problem of placing N queens on an N×N chessboard such that no two queens attack each other.
-        To encode the n-queens (n is a given number) problem into the DIMACS CNF format and solve it by the SAT solver, we need to encode the following constraints 
+The n-queens puzzle is the problem of placing N queens on an N×N chessboard such that no two queens attack each other.
+        
+To encode the n-queens (n is a given number) problem into the DIMACS CNF format and solve it by the SAT solver, we need to encode the following constraints 
         1) no two queens on the same row, 
         2) no two queens on the same column, and 
         3) no two queens on the same diagonal. 
         
-    [More information](https://linuxize.com/post/how-to-use-nano-text-editor/).
+[More information](https://linuxize.com/post/how-to-use-nano-text-editor/).
 
 ----------------------------------------------------
 ## <a name="install-python"></a> Install Python to Local machine
