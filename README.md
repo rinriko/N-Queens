@@ -25,7 +25,7 @@ To encode the n-queens (n is a given number) problem into the DIMACS CNF format 
         2) no two queens on the same column, and 
         3) no two queens on the same diagonal. 
         
-[More information](http://htmlpreview.github.io/?https://github.com/rinriko/N-Queens/blob/main/REPORT/index.html).
+More information is available in this [link](http://htmlpreview.github.io/?https://github.com/rinriko/N-Queens/blob/main/REPORT/index.html) or downloads the .pdf file in this [link](https://github.com/rinriko/N-Queens/blob/main/REPORT/report.pdf).
 
 ----------------------------------------------------
 ## <a name="install-python"></a> Install Python to Local machine
